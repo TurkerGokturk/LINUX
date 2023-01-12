@@ -1,0 +1,74 @@
+ 
+                                
+
+BASIC LINUX COMMANDS
+
+pwd : Print Working directory
+Shows the directory that we are currently working on.
+
+explorer.exe . : Graphic Line Interface
+Opens the Windows Directory
+
+whoami : Who Am I
+Shows the host
+
+CTRL + Z : It suspends the process. It can be resumed 
+
+CTRL + C: Kills the process. It cannot be resumed.
+
+CTRL + D : Special Control character
+		It ends the process.
+
+tree : Is used to recursively list or display the content of a directory in a tree-like format ...
+
+
+
+
+ LIST COMMANDS 
+
+ls: 		List
+		List the index
+ls -a :	List all
+		List all the files including the hidden files and directories.
+ls -l :	List long
+		Prints the files in a long listing form
+ls -al :	List all long
+		Prints all the information about files in a long way
+ls -ll : 	Prints list in long way including permissions
+
+ls -alh :	Lists the file sizes.
+
+ls Test : List the content of the Test Directory
+
+ls d/f :	Lists the content of the “f directory” which is a sub-directory of “d”.
+                                                
+
+mkdir / REATING  DIRECTORY 
+
+mkdir Test :	Creates a directory called Test
+
+mkdir A B C :	Creates directories A,B and C the same time.
+
+mkdir Test/Anwer : Creates a sub-directory as “Answer” in “Test Directory”
+
+mkdir Test{1..5} :	Creates Test1 Directory to Test5 Directory with one command.
+
+mkdir .AWS :		Creates a ”hidden” AWS Directory
+
+
+
+
+
+
+                                                                
+
+
+
+
+
+
+
+
+
+
+

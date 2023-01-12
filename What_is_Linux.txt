@@ -1,0 +1,49 @@
+      What is LINUX 
+ 
+* Linux is a core.
+* GNU/Linux is an OP (Operation System)
+* It is an Open – Source
+* It is an Open-Source Foundation (OSF)
+* It is Free Software / Source Foundation (FSF)
+* First version, 0,01, was released in 1991
+* Version 1,0 was released in 1994
+* Android started sing Linux in 1998
+* Linux is Embedded System
+* 
+* Linux has two components: 1. Kernel, 2. Assembler Codes
+* 
+* Linux has 2 types of Interfaces:   
+1. Command Line Interface
+2. Graphic Line Interface
+
+Why Linux:
+* It is everywhere
+* It is FREE
+* It is Open-Source Foundation
+* It is Beginner-Friendly
+* It is easy to use
+* Reliability
+* Security
+* It doesn’t have no annoying crashes or reboots
+* Server Segment
+* Many of its Software is Free
+* Consumes less Hardware resources
+* It is highly preferred by the server. 60% - 70% of the servers prefer Linux.
+* It runs fast on low-capacity computers.
+
+Where Linux:
+* Linux is EVERYWHERE 
+* IBM, Amazon.com, Wikipedia, Google, Union Bank, NASA, Submarines, Mobile Devices, Traffic Controlling, Watches, Bulled Trains, Nuclear Projects, Internet Hosting, Weapons, Missiles… 
+
+When Linux: 
+* Any time
+* Every time
+* Everywhere
+
+
+       
+       
+       
+       
+      
+
